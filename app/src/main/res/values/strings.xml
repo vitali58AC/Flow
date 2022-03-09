@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Flow</string>
+    <string name="imdb_logo">Imdb logo</string>
+    <string name="choose_type">Choose type</string>
+    <string name="enter_name">Enter name</string>
+    <string name="search">Search</string>
+    <string-array name="movie_types">
+        <item>Not selected</item>
+        <item>Movie</item>
+        <item>Series</item>
+        <item>Episode</item>
+    </string-array>
+</resources>
